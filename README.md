@@ -8,6 +8,10 @@ Throughout my academic journey, I've had the opportunity to work on a variety of
 
 🪴 I strive to contribute to projects that have a meaningful impact on the world. 
 
+📬 If you have any opportunities or would like to connect, please feel free to reach out to me!
+  ⭐ My LinkedIn: https://www.linkedin.com/in/mrinmoyee-mishra/
+  ⭐ Published games that I have contributed to: https://mrinn.itch.io/
+
 Thank you for visiting my GitHub Profile! 🧑‍💻 Happy coding! 
 <!--
 **mrin-tech/mrin-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
