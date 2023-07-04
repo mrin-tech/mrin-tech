@@ -8,9 +8,9 @@ Throughout my academic journey, I've had the opportunity to work on a variety of
 
 🪴 I strive to contribute to projects that have a meaningful impact on the world. 
 
-📬 If you have any opportunities or would like to connect, please feel free to reach out to me!
-  ⭐ My LinkedIn: https://www.linkedin.com/in/mrinmoyee-mishra/
-  ⭐ Published games that I have contributed to: https://mrinn.itch.io/
+📬 If you have any opportunities or would like to connect, please feel free to reach out to me! <br />
+  ⭐ My LinkedIn: https://www.linkedin.com/in/mrinmoyee-mishra/ <br />
+  ⭐ Published games that I have contributed to: https://mrinn.itch.io/ <br />
 
 Thank you for visiting my GitHub Profile! 🧑‍💻 Happy coding! 
 <!--
