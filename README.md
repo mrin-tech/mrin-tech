@@ -1,4 +1,4 @@
-### Hi! I'm Mrin 👋
+### Hi, I'm Mrin! 👋
 
 I'm a recent graduate 🎓 from the University of California, Santa Cruz with a B.S. in Computer Science: Computer Game Design. I have a lot of interest in software development and data science.
 
