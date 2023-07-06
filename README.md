@@ -2,7 +2,7 @@
 
 I'm a recent graduate 🎓 from the University of California, Santa Cruz with a B.S. in Computer Science: Computer Game Design. I have a lot of interest in software development and data science.
 
-Throughout my academic journey, I've had the opportunity to work on a variety of exciting projects, including game development 🎮, data analysis 🔢, and web development 🖥.  I love learning new languages and working on projects that combine the realms of technical skills and creativity. I am proficient in Python, C/C++/C#, Javascript, and SQL. 
+Throughout my academic journey, I've had the opportunity to work on a variety of exciting projects, including data analysis 🔢, web development 🖥, and game development 🎮.  I love learning new languages and working on projects that combine the realms of technical skills and creativity. I am proficient in Python, C/C++/C#, Javascript, and SQL. 
 
 🌟 Feel free to explore my GitHub repositories, where you'll find a mix of personal projects, course assignments, and collaborations. 
 
