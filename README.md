@@ -12,6 +12,8 @@ Throughout my academic journey, I've had the opportunity to work on a variety of
   ⭐ My LinkedIn: https://www.linkedin.com/in/mrinmoyee-mishra/ <br />
   ⭐ Published games that I have contributed to: https://mrinn.itch.io/ <br />
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrin-techa&layout=compact)
+
 Thank you for visiting my GitHub Profile! 🧑‍💻 Happy coding! 
 <!--
 **mrin-tech/mrin-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
